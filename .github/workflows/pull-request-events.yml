@@ -14,8 +14,6 @@ permissions:
 
 jobs:
   pull-request-events:
-    uses: gocloudLa/poc-workflows-shared/.github/workflows/shared-pull-request-events.yml@main
-    with:
-      language: php
+    uses: gocloudLa/poc-workflows-shared/.github/workflows/shared-pull-request-php.yml@main
     secrets: inherit
 

@@ -26,6 +26,9 @@ This repository uses the centralized workflows from `gocloudLa/poc-workflows-sha
 - `AWS_ROLE_ARN_DEV`: IAM role for dev environment
 - `AWS_ROLE_ARN_STAGING`: IAM role for staging environment
 - `AWS_ROLE_ARN_PROD`: IAM role for production environment
+
+### Required Variables
+
 - `AWS_REGION`: AWS region (optional, defaults to us-east-1)
 
 ### GitHub Environments
