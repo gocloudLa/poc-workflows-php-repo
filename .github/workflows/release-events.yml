@@ -1,0 +1,19 @@
+name: "Release Events Workflow"
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  pull-requests: write
+  id-token: write
+  contents: read
+
+jobs:
+  release-events:
+    uses: gocloudLa/poc-workflows-shared/.github/workflows/shared-release-events.yml@main
+    with:
+      service_name: php-service
+      release_tag: ${{ github.event.release.tag_name }}
+    secrets: inherit
+

@@ -1,0 +1,20 @@
+name: "Main Push Events Workflow"
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  pull-requests: write
+  id-token: write
+  contents: write
+  actions: read
+  security-events: write
+
+jobs:
+  main-push-events:
+    uses: gocloudLa/poc-workflows-shared/.github/workflows/shared-main-push-events-php.yml@main
+    with:
+      service_name: php-service
+    secrets: inherit
+
