@@ -60,3 +60,6 @@ docker run -p 8080:8080 php-service
 2. **develop branch (push)**: Security scan → Build & Tag → Deploy to Dev → Verification → Health Check
 3. **main branch (push)**: Release → Build & Tag → Deploy to Staging → Validation → **Approval** → Deploy to Production
 
+
+## Release workflow test
+Triggering semantic-release workflow test.
