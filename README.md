@@ -83,3 +83,7 @@ Test github apps
 
 Test semantic-release
 - test 1
+
+
+Test deploy action
+- test 1
