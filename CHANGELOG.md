@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.6.0...v1.7.0) (2026-01-02)
+
+
+### Features
+
+* test rule set for bypass status checks ([#25](https://github.com/gocloudLa/poc-workflows-php-repo/issues/25)) ([ef19fa6](https://github.com/gocloudLa/poc-workflows-php-repo/commit/ef19fa65019bdb4a8b88327b03c662e41f2091d6))
+
 # [1.6.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.5.0...v1.6.0) (2026-01-02)
 
 
