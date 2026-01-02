@@ -80,6 +80,3 @@ Test github apps
 - test 7
 - test 8
 - test 9
-
-Test semantic-release
-- test 1
