@@ -1,10 +1,3 @@
-# [1.11.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.10.1...v1.11.0) (2026-01-02)
-
-
-### Features
-
-* sync changelog 2 ([#39](https://github.com/gocloudLa/poc-workflows-php-repo/issues/39)) ([38657bf](https://github.com/gocloudLa/poc-workflows-php-repo/commit/38657bfcbb0447a96d9b2fec8d33cedc00bccca6))
-
 ## [1.10.1](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.10.0...v1.10.1) (2026-01-02)
 
 
