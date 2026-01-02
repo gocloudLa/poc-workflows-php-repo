@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.8.0...v1.9.0) (2026-01-02)
+
+
+### Features
+
+* new feature ([#29](https://github.com/gocloudLa/poc-workflows-php-repo/issues/29)) ([88ad8ba](https://github.com/gocloudLa/poc-workflows-php-repo/commit/88ad8ba6e31147ba32c33fbeb4ae322cdfaad95c))
+
 # [1.8.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.7.0...v1.8.0) (2026-01-02)
 
 
