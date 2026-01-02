@@ -60,3 +60,23 @@ docker run -p 8080:8080 php-service
 2. **develop branch (push)**: Security scan → Build & Tag → Deploy to Dev → Verification → Health Check
 3. **main branch (push)**: Release → Build & Tag → Deploy to Staging → Validation → **Approval** → Deploy to Production
 
+
+## Release workflow test
+Triggering semantic-release workflow test.
+
+Random change: 1766787149
+
+Random change: 1766787389
+
+Random change: 1766788502
+
+Node release workflow test: 1766790359
+
+Test github apps
+- test 1
+- test 4
+- test 5
+- test 6
+- test 7
+- test 8
+- test 9
