@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.7.0...v1.8.0) (2026-01-02)
+
+
+### Features
+
+* test rule set ([#26](https://github.com/gocloudLa/poc-workflows-php-repo/issues/26)) ([0ddf8f1](https://github.com/gocloudLa/poc-workflows-php-repo/commit/0ddf8f141d8f7adfc7b3a7cc9710fc980bbae462))
+
 # [1.7.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.6.0...v1.7.0) (2026-01-02)
 
 
