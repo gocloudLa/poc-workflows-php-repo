@@ -87,3 +87,5 @@ Test semantic-release
 
 Test deploy action
 - test 1
+- test 2
+- test 3
