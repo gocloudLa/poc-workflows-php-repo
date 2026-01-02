@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.5.0...v1.6.0) (2026-01-02)
+
+
+### Features
+
+* test github app with require status checks ([#24](https://github.com/gocloudLa/poc-workflows-php-repo/issues/24)) ([fb5f2cf](https://github.com/gocloudLa/poc-workflows-php-repo/commit/fb5f2cf300da9cff2970e964e94a3cab82f86012))
+
 # [1.5.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.4.0...v1.5.0) (2026-01-02)
 
 
