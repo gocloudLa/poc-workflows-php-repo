@@ -1,3 +1,13 @@
+# [1.13.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.12.0...v1.13.0) (2026-01-07)
+
+
+### Features
+
+* add deploy ([3d5dcf4](https://github.com/gocloudLa/poc-workflows-php-repo/commit/3d5dcf471c2286d2ded836bdaed0cb993a7c1d4d))
+* add merge group ([0cb399c](https://github.com/gocloudLa/poc-workflows-php-repo/commit/0cb399cb21948a9026fce747268e7815352dbaad))
+* add rollback ([1cae733](https://github.com/gocloudLa/poc-workflows-php-repo/commit/1cae733818c6145df62664397049afcfceca8aba))
+* remove release events workflow ([a5a90cd](https://github.com/gocloudLa/poc-workflows-php-repo/commit/a5a90cd87a787c982a6e917ab81a4de977a3a058))
+
 # [1.12.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.11.0...v1.12.0) (2026-01-05)
 
 
