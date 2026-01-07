@@ -16,11 +16,6 @@ on:
       #   required: false
       #   type: string
       #   default: 'poc-workflows-php-repo'
-      skip_execution:
-        description: 'Skip workflow execution'
-        required: false
-        type: boolean
-        default: false
 
 permissions:
   contents: write
@@ -32,5 +27,4 @@ jobs:
       rollback_tag: ${{ inputs.rollback_tag }}
       # release_tag_to_delete: ${{ inputs.release_tag_to_delete }}
       values_dir: 'poc-workflows-php-repo'
-      skip_execution: ${{ inputs.skip_execution }}
     secrets: inherit
