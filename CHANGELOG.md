@@ -1,3 +1,11 @@
+# [1.15.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.14.0...v1.15.0) (2026-01-08)
+
+
+### Features
+
+* test ([#53](https://github.com/gocloudLa/poc-workflows-php-repo/issues/53)) ([8646045](https://github.com/gocloudLa/poc-workflows-php-repo/commit/86460456483556a49e7c2e8d4c74a9b1a5d066b2))
+* test 2 ([#52](https://github.com/gocloudLa/poc-workflows-php-repo/issues/52)) ([d206ad8](https://github.com/gocloudLa/poc-workflows-php-repo/commit/d206ad88987ac8efb3a72db760d401aa64c62b95))
+
 # [1.14.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.13.0...v1.14.0) (2026-01-08)
 
 
