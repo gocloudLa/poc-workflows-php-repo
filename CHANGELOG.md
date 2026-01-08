@@ -1,3 +1,43 @@
+# [1.13.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.12.0...v1.13.0) (2026-01-07)
+
+
+### Features
+
+* add deploy ([3d5dcf4](https://github.com/gocloudLa/poc-workflows-php-repo/commit/3d5dcf471c2286d2ded836bdaed0cb993a7c1d4d))
+* add merge group ([0cb399c](https://github.com/gocloudLa/poc-workflows-php-repo/commit/0cb399cb21948a9026fce747268e7815352dbaad))
+* add rollback ([1cae733](https://github.com/gocloudLa/poc-workflows-php-repo/commit/1cae733818c6145df62664397049afcfceca8aba))
+* remove release events workflow ([a5a90cd](https://github.com/gocloudLa/poc-workflows-php-repo/commit/a5a90cd87a787c982a6e917ab81a4de977a3a058))
+
+# [1.12.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.11.0...v1.12.0) (2026-01-05)
+
+
+### Bug Fixes
+
+* add permissions ([#42](https://github.com/gocloudLa/poc-workflows-php-repo/issues/42)) ([bfe2d62](https://github.com/gocloudLa/poc-workflows-php-repo/commit/bfe2d623891d69b6cf48324d58b6f80eee286324))
+* **ci:** unit test ([#5](https://github.com/gocloudLa/poc-workflows-php-repo/issues/5)) ([cf4a1e3](https://github.com/gocloudLa/poc-workflows-php-repo/commit/cf4a1e3e39b0150a4349bd51de2ca401cee6608b))
+* sync changelog ([#35](https://github.com/gocloudLa/poc-workflows-php-repo/issues/35)) ([b7f2107](https://github.com/gocloudLa/poc-workflows-php-repo/commit/b7f21074f94ca885b808753ce5e7859658a7e2f3))
+
+
+### Features
+
+* integrate main ([#28](https://github.com/gocloudLa/poc-workflows-php-repo/issues/28)) ([af02dd3](https://github.com/gocloudLa/poc-workflows-php-repo/commit/af02dd33db4c6ea34a07c6891a01db9c74515d23))
+* **project:** initial release ([#1](https://github.com/gocloudLa/poc-workflows-php-repo/issues/1)) ([cda6aea](https://github.com/gocloudLa/poc-workflows-php-repo/commit/cda6aea3b3029a1221b93c909c7be7e4a6c588dc))
+* release action 1 ([#36](https://github.com/gocloudLa/poc-workflows-php-repo/issues/36)) ([e3e2e39](https://github.com/gocloudLa/poc-workflows-php-repo/commit/e3e2e395b6e44b21a2f2382aa6960f680ac877a5))
+* sync changelog ([#31](https://github.com/gocloudLa/poc-workflows-php-repo/issues/31)) ([7cf0c49](https://github.com/gocloudLa/poc-workflows-php-repo/commit/7cf0c496d5652410ebf246a92fa52866c90d5dab))
+* test automatic pr step for main to pr ([#32](https://github.com/gocloudLa/poc-workflows-php-repo/issues/32)) ([d036d28](https://github.com/gocloudLa/poc-workflows-php-repo/commit/d036d2880cac0092091bfd92e98bbc93ae065659))
+* test deploy action 5 ([#45](https://github.com/gocloudLa/poc-workflows-php-repo/issues/45)) ([fc5c8f7](https://github.com/gocloudLa/poc-workflows-php-repo/commit/fc5c8f72f522247621713da8db778c48d07b8a80))
+* test-deploy-action-1 ([#41](https://github.com/gocloudLa/poc-workflows-php-repo/issues/41)) ([01ddcc6](https://github.com/gocloudLa/poc-workflows-php-repo/commit/01ddcc601985a2c2e26d2d1dc7e6c32d921f1697))
+* test-deploy-action-3 ([#43](https://github.com/gocloudLa/poc-workflows-php-repo/issues/43)) ([3314385](https://github.com/gocloudLa/poc-workflows-php-repo/commit/33143853d32e61f4be4b4d4e72ac6d4d07642465))
+* test-deploy-action-4 ([#44](https://github.com/gocloudLa/poc-workflows-php-repo/issues/44)) ([a106775](https://github.com/gocloudLa/poc-workflows-php-repo/commit/a10677556a4a0172319dbc0d66eadf3fbc561396))
+* update commits ([#38](https://github.com/gocloudLa/poc-workflows-php-repo/issues/38)) ([4b96c38](https://github.com/gocloudLa/poc-workflows-php-repo/commit/4b96c3807ac96f515bc90de29165e4d54568990f))
+
+# [1.11.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.10.1...v1.11.0) (2026-01-02)
+
+
+### Features
+
+* sync changelog 2 ([#39](https://github.com/gocloudLa/poc-workflows-php-repo/issues/39)) ([38657bf](https://github.com/gocloudLa/poc-workflows-php-repo/commit/38657bfcbb0447a96d9b2fec8d33cedc00bccca6))
+
 ## [1.10.1](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.10.0...v1.10.1) (2026-01-02)
 
 
