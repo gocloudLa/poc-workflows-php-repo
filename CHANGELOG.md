@@ -1,3 +1,13 @@
+# [1.14.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.13.0...v1.14.0) (2026-01-08)
+
+
+### Features
+
+* integration ([#50](https://github.com/gocloudLa/poc-workflows-php-repo/issues/50)) ([46754d1](https://github.com/gocloudLa/poc-workflows-php-repo/commit/46754d1077627e9811c2251f6ae66c24457ae172))
+* remove skip execution ([911f25f](https://github.com/gocloudLa/poc-workflows-php-repo/commit/911f25f4aae9e633bd7449d274d986fd8823efa9))
+* test 1 ([#49](https://github.com/gocloudLa/poc-workflows-php-repo/issues/49)) ([53b8f2a](https://github.com/gocloudLa/poc-workflows-php-repo/commit/53b8f2a6aced18609961c578aff3f36497ec0ec4))
+* test 2 ([e378451](https://github.com/gocloudLa/poc-workflows-php-repo/commit/e378451bb06ce8633f355f203ecfcf792db2f0ba))
+
 # [1.13.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.12.0...v1.13.0) (2026-01-07)
 
 
