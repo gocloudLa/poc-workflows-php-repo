@@ -12,21 +12,11 @@ on:
         required: false
         type: string
         default: ''
-      target_repository:
-        description: 'ArgoCD repository to update (owner/repo)'
-        required: false
-        type: string
-        default: 'gocloudLa/poc-workflows-argocd-shared'
-      target_branch:
-        description: 'Target branch to update in ArgoCD repo'
-        required: false
-        type: string
-        default: 'main'
-      values_dir:
-        description: 'Values folder inside ArgoCD repo'
-        required: false
-        type: string
-        default: 'poc-workflows-php-repo'
+      # values_dir:
+      #   description: 'Values folder inside ArgoCD repo'
+      #   required: false
+      #   type: string
+      #   default: 'poc-workflows-php-repo'
 
 permissions:
   contents: write
@@ -37,7 +27,5 @@ jobs:
     with:
       tag_name: ${{ inputs.tag_name }}
       release_notes: ${{ inputs.release_notes }}
-      target_repository: ${{ inputs.target_repository }}
-      target_branch: ${{ inputs.target_branch }}
-      values_dir: ${{ inputs.values_dir }}
+      values_dir: 'poc-workflows-php-repo'
     secrets: inherit

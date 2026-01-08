@@ -11,21 +11,11 @@ on:
       #   description: 'Release tag to delete (bad release)'
       #   required: true
       #   type: string
-      values_dir:
-        description: 'Values folder inside ArgoCD repo'
-        required: false
-        type: string
-        default: 'poc-workflows-php-repo'
-      service_name:
-        description: 'Service name'
-        required: false
-        type: string
-        default: 'php-service'
-      skip_execution:
-        description: 'Skip workflow execution'
-        required: false
-        type: boolean
-        default: false
+      # values_dir:
+      #   description: 'Values folder inside ArgoCD repo'
+      #   required: false
+      #   type: string
+      #   default: 'poc-workflows-php-repo'
 
 permissions:
   contents: write
@@ -34,12 +24,7 @@ jobs:
   rollback-release:
     uses: gocloudLa/poc-workflows-shared/.github/workflows/rollback-mechanism.yml@main
     with:
-      service_name: ${{ inputs.service_name }}
-      environment: ${{ inputs.environment }}
       rollback_tag: ${{ inputs.rollback_tag }}
       # release_tag_to_delete: ${{ inputs.release_tag_to_delete }}
-      target_repository: ${{ inputs.target_repository }}
-      target_branch: ${{ inputs.target_branch }}
-      values_dir: ${{ inputs.values_dir }}
-      skip_execution: ${{ inputs.skip_execution }}
+      values_dir: 'poc-workflows-php-repo'
     secrets: inherit
