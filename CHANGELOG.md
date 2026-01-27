@@ -1,3 +1,11 @@
+# [1.16.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.15.0...v1.16.0) (2026-01-27)
+
+
+### Features
+
+* add improbe to cicd ([#55](https://github.com/gocloudLa/poc-workflows-php-repo/issues/55)) ([4f83f5c](https://github.com/gocloudLa/poc-workflows-php-repo/commit/4f83f5c596f94e4542998534ec073804531f8afd))
+* add pull request template ([3d7b857](https://github.com/gocloudLa/poc-workflows-php-repo/commit/3d7b8570b2519fbe9067b944cd5103750a451f6a))
+
 # [1.15.0](https://github.com/gocloudLa/poc-workflows-php-repo/compare/v1.14.0...v1.15.0) (2026-01-08)
 
 
